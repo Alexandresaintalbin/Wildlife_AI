@@ -1,0 +1,9 @@
+
+# Dataset
+data/animals.zip
+
+# Machine learning models
+*.h5
+
+# macOS
+.DS_Store
